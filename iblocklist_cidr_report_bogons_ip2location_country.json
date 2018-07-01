@@ -1,0 +1,50 @@
+[
+	{
+		"code": "CH",
+		"value": 1536
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 598039048
+	},
+	{
+		"code": "CY",
+		"value": 160
+	},
+	{
+		"code": "DE",
+		"value": 1024
+	},
+	{
+		"code": "FR",
+		"value": 96
+	},
+	{
+		"code": "GB",
+		"value": 3072
+	},
+	{
+		"code": "IL",
+		"value": 128
+	},
+	{
+		"code": "IQ",
+		"value": 256
+	},
+	{
+		"code": "IT",
+		"value": 32
+	},
+	{
+		"code": "NL",
+		"value": 256
+	},
+	{
+		"code": "RU",
+		"value": 3072
+	},
+	{
+		"code": "SE",
+		"value": 32
+	}
+]
